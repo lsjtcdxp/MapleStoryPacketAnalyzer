@@ -1,0 +1,3 @@
+工程中右键引用-》添加引用-》浏览-》选择你的dll文件，确定即可
+
+需要引入SharpPcap.dll PacketDotNet.dll
